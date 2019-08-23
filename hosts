@@ -24,7 +24,6 @@ ff02::3 ip6-allhosts
 # End of custom host records.
 # =============================
 # Start ANTdroid
-0.0.0.0 8.8.8.8
 0.0.0.0 wb-in-f60.1e100.net
 0.0.0.0 wb-in-f61.1e100.net
 0.0.0.0 wb-in-f62.1e100.net
